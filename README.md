@@ -27,11 +27,6 @@ Você também pode ativar **música ambiente** para aumentar sua concentração 
 
 ---
 
-## 🎨 Interface
-
-<img src="./assets/fokus-ui.png" width="600" alt="Interface Fokus"/>
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
