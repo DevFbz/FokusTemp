@@ -82,8 +82,7 @@ Essa prática ajuda a manter a concentração, reduzir a fadiga mental e melhora
 ## 👨‍💻 Autor
 
 Desenvolvido com ❤️ por **[DevFbz](https://github.com/DevFbz)**  
-📧 Contato: *adicione aqui seu e-mail ou rede profissional, se quiser*
-
+📧 Contato: brenofabrizio2018@gmail.com
 ---
 
 ## 📝 Licença
